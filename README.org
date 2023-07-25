@@ -1,0 +1,10 @@
+* cl-s3
+
+Simple Common Lisp client for Amazon AWS S3
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/svenvc/cl-s3.git   |
+| commit  | ffbbd7b  |
+| systems | cl-s3 |
+|---------+-------------------------------------------|
+
